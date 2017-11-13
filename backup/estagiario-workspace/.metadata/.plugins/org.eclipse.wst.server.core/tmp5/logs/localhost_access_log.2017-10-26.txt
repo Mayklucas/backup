@@ -1,0 +1,3 @@
+127.0.0.1 - - [26/Oct/2017:17:55:37 -0200] "GET / HTTP/1.1" 404 955
+0:0:0:0:0:0:0:1 - - [26/Oct/2017:17:55:39 -0200] "GET /Projeto_Empresa/WEB-INF/classes/com/algaworks/resource/CursoResource.java HTTP/1.1" 404 952
+0:0:0:0:0:0:0:1 - - [26/Oct/2017:17:57:06 -0200] "GET /cursos HTTP/1.1" 404 973

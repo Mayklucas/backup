@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;br.com.caelum.tarefas.controller&apos; to &apos;Spring/src&apos;&#x0D;&#x0A;- Original project: &apos;fj21-agenda&apos;&#x0D;&#x0A;- Destination element: &apos;Spring/src&apos;&#x0D;&#x0A;- Original element: &apos;fj21-agenda/src/br.com.caelum.tarefas.controller&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=Spring/src" element1="/src&lt;br.com.caelum.tarefas.controller" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1503335361488" version="1.0"/>
+</session>

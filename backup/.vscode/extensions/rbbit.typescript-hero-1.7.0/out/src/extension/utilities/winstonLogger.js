@@ -60,7 +60,7 @@ class HandleUncatchedException extends Transport {
             setImmediate(() => {
                 this.emit('logged', info);
             });
-            const result = yield vscode_1.window.showErrorMessage('There was an uncought exception, do you want to see the logfile?', { modal: true }, 'Yes, show me.');
+            const result = yield vscode_1.window.showErrorMessage('There was an uncaught exception, do you want to see the logfile?', { modal: true }, 'Yes, show me.');
             if (result) {
                 const doc = yield vscode_1.workspace.openTextDocument(path_1.join(this.path, 'typescript-hero.log'));
                 yield vscode_1.window.showTextDocument(doc);
